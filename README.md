@@ -1,0 +1,2 @@
+# Chatbot-using-deep-learning
+In this project a retrieval-based chatbot is made which uses predefined input patterns and responses. The chatbot will be trained on the dataset which contains categories (intents), pattern and responses. A special recurrent neural network (LSTM) is used to classify which category the user’s message belongs to and then a random response is given from the list of responses. 
